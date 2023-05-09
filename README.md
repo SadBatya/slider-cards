@@ -1,1 +1,1 @@
-[# slider-cards](https://sadbatya.github.io/slides-cards)
+https://sadbatya.github.io/slides-cards
