@@ -1,5 +1,5 @@
 const upBtn = document.querySelector('.up-button')
-const dowBtn = document.querySelector('.dow-button')
+const downBtn = document.querySelector('.down-button')
 const sidebar = document.querySelector('.sidebar')
 const container = document.querySelector('.container')
 const mainSlide = document.querySelector('.main-slide')
